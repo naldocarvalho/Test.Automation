@@ -26,6 +26,7 @@ namespace Objectivity.Test.Automation.Tests.CloudProviderCrossBrowser.Tests
     using PageObjects.PageObjects.TheInternet;
 
     [TestFixture("Chrome")]
+    [TestFixture("android")]
     [TestFixture("Firefox")]
     [TestFixture("Safari")]
     [TestFixture("Edge")]
